@@ -34,9 +34,9 @@ export default function ServiceDetail() {
         >
           <div className="p-8 md:p-12">
             <div className="flex items-center space-x-4">
-              <img 
-                src="/recurso01.webp" 
-                alt="Wizard" 
+              <img
+                src="recurso01.webp"
+                alt="Wizard"
                 className="w-28 h-28 rounded-xl object-contain bg-black"
               />
               <span className="text-yellow-400 font-bold uppercase tracking-[0.2em] text-xs">

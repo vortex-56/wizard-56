@@ -10,9 +10,9 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <Link to="/" className="flex items-center space-x-2">
-              <img 
-                src="/logo-footer.webp" 
-                alt="Logo" 
+              <img
+                src="logo-footer.webp"
+                alt="Logo"
                 className="h-[68px] w-auto object-contain"
               />
             </Link>

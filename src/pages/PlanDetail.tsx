@@ -31,9 +31,9 @@ export default function PlanDetail() {
               animate={{ opacity: 1, x: 0 }}
               className="sticky top-32"
             >
-              <img 
-                src="/recurso01.webp" 
-                alt="Wizard" 
+              <img
+                src="recurso01.webp"
+                alt="Wizard"
                 className="w-36 h-36 rounded-2xl object-contain bg-black"
               />
               <h1 className="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">

@@ -36,9 +36,9 @@ export default function Home() {
                 className="group relative bg-zinc-900 border border-white/10 rounded-3xl p-8 hover:border-yellow-400/50 transition-all"
               >
                 <div className="absolute top-0 -right-4 p-6 opacity-10 group-hover:opacity-100 transition-opacity">
-                  <img 
-                    src="/recurso02.svg" 
-                    alt="" 
+                  <img
+                    src="recurso02.svg"
+                    alt=""
                     className="w-[60px] h-[60px] text-yellow-400 transition-all duration-300 group-hover:drop-shadow-[0_0_8px_#ff9d00] -rotate-90"
                     style={{ filter: 'brightness(0) saturate(100%) invert(77%) sepia(67%) saturate(538%) hue-rotate(359deg) brightness(103%) contrast(101%) drop-shadow(0 0 6px #ff9d00) drop-shadow(0 0 12px #ff9d00)' }}
                   />
